@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcool Ou Gasolina</string>
+    <string name="etanol">乙醇</string>
+    <string name="gasolina">汽油</string>
+    <string name="precoEtanol">每升乙醇價格</string>
+    <string name="precoGasolina">每升汽油價格</string>
+    <string name="melhorOpcao">最好用%1$s。總 %2$s</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ethanol Or Gas</string>
+    <string name="precoGasolina">Price of Gas per liter</string>
+    <string name="precoEtanol">Price of ethanol per litro</string>
+    <string name="melhorOpcao">Better to use.</string>
+    <string name="gasolina">Gas</string>
+    <string name="etanol">ethanol</string>
+
+</resources>
